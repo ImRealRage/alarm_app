@@ -10,8 +10,8 @@ android {
         applicationId = "com.example.alarm_app"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "v20024.04.05.23:47::author:rage"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
