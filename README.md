@@ -29,4 +29,4 @@ Logs
       
 ---->> Fixed dismiss and snooze, fixes in edit text @ thursday, 4-4-24 11:20  @@chats::whatsapp::anku,vini, rage
 
----->> 
+---->> Fixed: icons, appicons, Logos, favicons , 5-4-24 @@chats::whatsapp::vini,rage,anku
